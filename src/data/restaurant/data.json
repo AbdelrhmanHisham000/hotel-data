@@ -1,0 +1,530 @@
+{
+  "restaurants": [
+    {
+      "img": "public/restaurant/Clove Restaurant.jpg",
+      "name": "Clove Restaurant",
+      "type": "Indian Cuisine",
+      "tablesNumber": 0,
+      "openingHours": {
+        "monday": "11:00 AM - 10:00 PM",
+        "tuesday": "11:00 AM - 10:00 PM",
+        "wednesday": "11:00 AM - 10:00 PM",
+        "thursday": "11:00 AM - 10:00 PM",
+        "friday": "11:00 AM - 11:00 PM",
+        "saturday": "11:00 AM - 11:00 PM",
+        "sunday": "11:00 AM - 9:00 PM"
+      },
+      "id": "35f2"
+    },
+    {
+      "img": "public/restaurant/Elia Restaurant.jpg",
+      "name": "Elia Restaurant",
+      "type": "Mediterranean Cuisine",
+      "tablesNumber": 0,
+      "openingHours": {
+        "monday": "12:00 PM - 10:00 PM",
+        "tuesday": "12:00 PM - 10:00 PM",
+        "wednesday": "12:00 PM - 10:00 PM",
+        "thursday": "12:00 PM - 10:00 PM",
+        "friday": "12:00 PM - 11:00 PM",
+        "saturday": "12:00 PM - 11:00 PM",
+        "sunday": "12:00 PM - 9:00 PM"
+      },
+      "id": "0822"
+    },
+    {
+      "img": "public/restaurant/Manzoku Restaurant.jpg",
+      "name": "Manzoku Restaurant",
+      "type": "Asian Cuisine",
+      "tablesNumber": 0,
+      "openingHours": {
+        "monday": "10:30 AM - 9:30 PM",
+        "tuesday": "10:30 AM - 9:30 PM",
+        "wednesday": "10:30 AM - 9:30 PM",
+        "thursday": "10:30 AM - 9:30 PM",
+        "friday": "10:30 AM - 10:30 PM",
+        "saturday": "10:30 AM - 10:30 PM",
+        "sunday": "10:30 AM - 9:00 PM"
+      },
+      "id": "4695"
+    },
+    {
+      "img": "public/restaurant/Posh Club Lounge.jpg",
+      "name": "Posh Club Lounge",
+      "type": "Royal Lounge",
+      "tablesNumber": 1,
+      "openingHours": {
+        "monday": "5:00 PM - 12:00 AM",
+        "tuesday": "5:00 PM - 12:00 AM",
+        "wednesday": "5:00 PM - 12:00 AM",
+        "thursday": "5:00 PM - 12:00 AM",
+        "friday": "5:00 PM - 2:00 AM",
+        "saturday": "5:00 PM - 2:00 AM",
+        "sunday": "5:00 PM - 12:00 AM"
+      },
+      "id": "fd36"
+    },
+    {
+      "img": "public/restaurant/Posh Club Restaurant.jpg",
+      "name": "Posh Club Restaurant",
+      "type": "Fine Dining",
+      "tablesNumber": 1,
+      "openingHours": {
+        "monday": "6:00 PM - 11:00 PM",
+        "tuesday": "6:00 PM - 11:00 PM",
+        "wednesday": "6:00 PM - 11:00 PM",
+        "thursday": "6:00 PM - 11:00 PM",
+        "friday": "6:00 PM - 12:00 AM",
+        "saturday": "6:00 PM - 12:00 AM",
+        "sunday": "6:00 PM - 10:00 PM"
+      },
+      "id": "30e0"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Room",
+      "size": "40m²",
+      "availability": false,
+      "price": 200,
+      "NoOfRooms": 18,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size or Twin Beds",
+      "view": "Garden View/Pool View/Partial Sea View",
+      "description": "Enjoy your stay at our Deluxe Room providing all means of comfort and your choice between Garden, Pool or Partial Sea View",
+      "overview": "Seating Area, Bathroom with separate Shower, Terrace or Balcony",
+      "images": [
+        "public/rooms/Deluxe Room/Deluxe Room.jpg",
+        "public/rooms/Deluxe Room/Deluxe Room 2.jpg"
+      ],
+      "id": "86a9"
+    },
+    {
+      "name": "Deluxe Jacuzzi Room",
+      "size": "43m²",
+      "price": 250,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size",
+      "view": "Beach Front",
+      "description": "Wake up and unwind in your private jacuzzi as you gaze up on the direct view of the Red Sea at our Deluxe Jacuzzi Room.",
+      "overview": "Seating Area, Bathroom with separate Shower, Balcony, Indoor Jacuzzi",
+      "images": [
+        "public/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room 1.jpg",
+        "public/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room.jpg"
+      ],
+      "id": "c51b"
+    },
+    {
+      "name": "Deluxe Swim-Up Room",
+      "size": "47m²",
+      "price": 300,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size Bed or Twin Beds",
+      "view": "Pool View",
+      "description": "A comfy bed, seating area and a terrace with an access to a shared swim up pool to dip your body into the minute you wake up in your Deluxe Swim Up Room.",
+      "overview": "Seating Area, Bathroom with separate Shower, Terrace with access to shared Swim-Up Pool, Indoor Jacuzzi",
+      "images": [
+        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 3.jpg",
+        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 4.jpg",
+        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room.jpg",
+        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 2.jpg"
+      ],
+      "id": "0f81"
+    },
+    {
+      "name": "Family Suite",
+      "size": "60m²",
+      "price": 400,
+      "NoOfRooms": 29,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size and Twin Beds",
+      "view": "Garden View/Pool View",
+      "description": "Family quality time not to miss out on at our Family Suite, perfectly packed with all amenities suitable for all the family members.",
+      "overview": "One Bedroom with King Size Bed,One Bedroom with Twin Beds, Bathroom with separate Shower, Terrace or Balcony",
+      "images": [
+        "public/rooms/Family Suite/Family Suite.jpg",
+        "public/rooms/Family Suite/Family Suite 2.jpg",
+        "public/rooms/Family Suite/Family Suite 4.jpg"
+      ],
+      "id": "673c",
+      "availabilty": false
+    },
+    {
+      "name": "Junior Swim-Up Suite- Posh Club",
+      "size": "47m²",
+      "price": 450,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size Bed or Twin Beds",
+      "view": "Beach Front",
+      "description": "An ideally sized suite to help you unwind in your beach-front crib while enjoying a cozy ambience and matchless amenities.",
+      "overview": "Bedroom with King Size Bed or Twin Beds, Seating Area, Bathroom with separate Shower, Terrace with access to shared Swim-Up Pool, Posh Club Eligibility & Privileges",
+      "images": [
+        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club.jpg",
+        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 2.jpg",
+        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 3.jpg",
+        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 5.jpg"
+      ],
+      "id": "b395"
+    },
+    {
+      "name": "Junior Jacuzzi Suite- Posh Club",
+      "size": "60m²",
+      "price": 500,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size",
+      "view": "Sea View/Beach Front",
+      "description": "Fall asleep in comfort and avail your eyesight with the view of the Red Sea the minute you wake up at our Junior Jacuzzi Suite.",
+      "overview": "Seating Area, Bathroom with separate Shower, Balcony, Rooftop with Outdoor Jacuzzi, Posh Club Eligibility & Privileges",
+      "images": [
+        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club.jpg",
+        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 2.jpg",
+        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 3.jpg"
+      ],
+      "id": "5dfb"
+    },
+    {
+      "name": "Executive Pool Suite- Posh Club",
+      "size": "70m²",
+      "price": 800,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size",
+      "view": "Pool View",
+      "description": "Comfort, spaciousness and privacy, all in our Executive Pool Suite. A secluded crib to enjoy your time calmly with a private pool that can be opened or covered upon your preference.",
+      "overview": "Bedroom with King Size Bed, Living Room, Bathroom with separate Shower, Terrace & Private Pool with Slider Ceiling to be opened or covered, Posh Club Eligibility & Privileges",
+      "images": [
+        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club.jpg",
+        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 2.jpg",
+        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 3.jpg"
+      ],
+      "id": "701c"
+    },
+    {
+      "name": "Royal Suite- Posh Club",
+      "size": "130m²",
+      "price": 1200,
+      "NoOfRooms": 30,
+      "maxOccupancy": "3 adults and 1 children",
+      "bedType": "King Size",
+      "view": "Beach Front",
+      "description": "Relish true royalty at the highest accommodation at White Hills, the Royal Suite, offering you the luxury of an indoor Jacuzzi, a wide dining room and a private pool,all situated on a beach-front spot. The epitome of a dreamy hideaway",
+      "overview": "Bedroom with King Size Bed, Dressing Room, Bathroom with separate Shower, Indoor Jacuzzi, Living Room, Dining Room with separate Toilet, Outdoor Terrace with Private Pool, Posh Club Eligibility & Privileges",
+      "images": [
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 1.jpg",
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 2.jpg",
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 3.jpg",
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 4.jpg",
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 5.jpg",
+        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 6.jpg"
+      ],
+      "id": "f6bc"
+    },
+    {
+      "name": "Special Needs Room",
+      "size": "40m²",
+      "price": 180,
+      "NoOfRooms": 30,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size",
+      "view": "Garden View/Partial Sea View",
+      "description": "Special Needs Room",
+      "overview": "Bedroom with King Size Bed, Seating Area, Bathroom with Accessible Shower & Handrails, Ground Floor, Non-slip Tiles, Terrace, Wide Doors",
+      "images": [
+        "public/rooms/Special Needs Room/Special Needs Room 1.jpg",
+        "public/rooms/Special Needs Room/Special Needs Room 2.jpg"
+      ],
+      "id": "7cbc",
+      "availability": false
+    },
+    {
+      "name": "Special Needs Room",
+      "size": "40m²",
+      "price": 180,
+      "NoOfRooms": 5,
+      "maxOccupancy": "2 adults and 2 children",
+      "bedType": "King Size",
+      "view": "Garden View/Partial Sea View",
+      "description": "Special Needs Room",
+      "overview": "Bedroom with King Size Bed, Seating Area, Bathroom with Accessible Shower & Handrails, Ground Floor, Non-slip Tiles, Terrace, Wide Doors",
+      "images": [
+        "public/rooms/Special Needs Room/Special Needs Room 1.jpg",
+        "public/rooms/Special Needs Room/Special Needs Room 2.jpg"
+      ],
+      "id": "228d"
+    }
+  ],
+  "wellness": [
+    {
+      "title": "Gym Facilities",
+      "img": "public/wellness/Gym.jpg",
+      "description": "State-of-the-art gym with personal training services.",
+      "opening_hours": "24/7",
+      "age_restriction": "18+",
+      "features": [
+        "Cardio Equipment",
+        "Free Weights",
+        "Group Fitness Classes",
+        "Personal Training"
+      ],
+      "reservation_button": "Make a Reservation",
+      "id": "e6e6"
+    },
+    {
+      "title": "Spa Facilities",
+      "img": "public/wellness/Spa.jpg",
+      "description": "Services are with extra charge, with prior reservation.",
+      "opening_hours": "09:00 AM – 08:00 PM",
+      "age_restriction": "16+",
+      "features": [
+        "Sauna & Steam",
+        "Arabian Hammam",
+        "Hydro Pool",
+        "Massage Rooms"
+      ],
+      "reservation_button": "Make a Reservation",
+      "id": "d2f1"
+    },
+    {
+      "title": "Swimming Pool",
+      "img": "public/wellness/SwimmingPool.jpg",
+      "description": "Take a swim in our luxurious pool with a beautiful view.",
+      "opening_hours": "09:00 AM – 09:00 PM",
+      "age_restriction": "14+",
+      "features": [
+        "Indoor Pool",
+        "Outdoor Pool",
+        "Poolside Bar",
+        "Heated Pool"
+      ],
+      "reservation_button": "Make a Reservation",
+      "id": "de81"
+    }
+  ],
+  "services": {
+    "food": [
+      {
+        "name": "Butter Chicken",
+        "description": "Rich creamy chicken curry.",
+        "price": 12.99
+      },
+      {
+        "name": "Grilled Cheese Sandwich",
+        "description": "Classic cheese sandwich.",
+        "price": 8.99
+      },
+      {
+        "name": "Chocolate Cake",
+        "description": "Delicious chocolate dessert.",
+        "price": 5.99
+      },
+      {
+        "name": "Caesar Salad",
+        "description": "Fresh lettuce with Caesar dressing.",
+        "price": 7.49
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "description": "Classic pizza with pepperoni topping.",
+        "price": 14.99
+      },
+      {
+        "name": "Veggie Burger",
+        "description": "Healthy burger with fresh vegetables.",
+        "price": 11.99
+      },
+      {
+        "name": "Steak Dinner",
+        "description": "Juicy steak with sides of mashed potatoes.",
+        "price": 24.99
+      },
+      {
+        "name": "Chicken Alfredo",
+        "description": "Pasta with creamy Alfredo sauce and chicken.",
+        "price": 13.99
+      },
+      {
+        "name": "Spring Rolls",
+        "description": "Crispy rolls filled with fresh vegetables.",
+        "price": 6.99
+      },
+      {
+        "name": "Ice Cream Sundae",
+        "description": "Vanilla ice cream with chocolate sauce.",
+        "price": 4.99
+      },
+      {
+        "name": "French Fries",
+        "description": "Golden crispy fries with ketchup.",
+        "price": 4.49
+      },
+      {
+        "name": "Club Sandwich",
+        "description": "Layered sandwich with turkey, bacon, and lettuce.",
+        "price": 10.99
+      },
+      {
+        "name": "Shrimp Cocktail",
+        "description": "Fresh shrimp served with tangy cocktail sauce.",
+        "price": 9.99
+      },
+      {
+        "name": "Fruit Platter",
+        "description": "Assorted seasonal fruits.",
+        "price": 8.99
+      },
+      {
+        "name": "Pancake Stack",
+        "description": "Fluffy pancakes served with syrup.",
+        "price": 7.99
+      }
+    ],
+    "housekeeping": [
+      {
+        "name": "Fresh Towels",
+        "description": "Get a fresh set of towels.",
+        "price": 0
+      },
+      {
+        "name": "Bed Sheet Change",
+        "description": "Clean and replace bed sheets.",
+        "price": 0
+      },
+      {
+        "name": "Room Cleaning",
+        "description": "Full room cleaning service.",
+        "price": 0
+      },
+      {
+        "name": "Trash Removal",
+        "description": "Have your trash collected and removed.",
+        "price": 0
+      },
+      {
+        "name": "Laundry Pickup",
+        "description": "Pick up laundry for cleaning.",
+        "price": 5.99
+      },
+      {
+        "name": "Iron and Board",
+        "description": "Request an iron and ironing board.",
+        "price": 0
+      },
+      {
+        "name": "Curtain Adjustment",
+        "description": "Assistance with blackout curtains.",
+        "price": 0
+      },
+      {
+        "name": "Shoe Polishing",
+        "description": "Professional shoe shining service.",
+        "price": 4.99
+      },
+      {
+        "name": "Bathrobe Replacement",
+        "description": "Fresh bathrobe delivered.",
+        "price": 2.99
+      },
+      {
+        "name": "Slippers Replacement",
+        "description": "Get new hotel slippers.",
+        "price": 1.99
+      },
+      {
+        "name": "Mattress Topper",
+        "description": "Extra padding for the bed.",
+        "price": 0
+      },
+      {
+        "name": "Vacuuming Service",
+        "description": "Vacuum your room for cleanliness.",
+        "price": 3.99
+      },
+      {
+        "name": "Turn-Down Service",
+        "description": "Prepare the bed for a restful sleep.",
+        "price": 0
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Toothbrush Kit",
+        "description": "Toothbrush and toothpaste set.",
+        "price": 2.99
+      },
+      {
+        "name": "Phone Charger",
+        "description": "Request a universal phone charger.",
+        "price": 1.99
+      },
+      {
+        "name": "Extra Pillow",
+        "description": "Additional pillow for your comfort.",
+        "price": 0
+      },
+      {
+        "name": "Baby Crib",
+        "description": "Request a crib for your baby.",
+        "price": 0
+      },
+      {
+        "name": "Blanket",
+        "description": "Extra blanket for warmth.",
+        "price": 0
+      },
+      {
+        "name": "Shaving Kit",
+        "description": "Razor and shaving cream set.",
+        "price": 3.49
+      },
+      {
+        "name": "Sewing Kit",
+        "description": "Needle, thread, and buttons.",
+        "price": 1.99
+      },
+      {
+        "name": "First Aid Kit",
+        "description": "Bandages and basic medical supplies.",
+        "price": 0
+      },
+      {
+        "name": "Hairdryer",
+        "description": "Request a hairdryer for your room.",
+        "price": 0
+      },
+      {
+        "name": "Flower Bouquet",
+        "description": "Beautiful flowers for special occasions.",
+        "price": 19.99
+      },
+      {
+        "name": "Portable Fan",
+        "description": "Extra fan for your room.",
+        "price": 0
+      },
+      {
+        "name": "Umbrella",
+        "description": "Request an umbrella for rainy weather.",
+        "price": 2.99
+      },
+      {
+        "name": "Room Decorations",
+        "description": "Special decorations for celebrations.",
+        "price": 25
+      },
+      {
+        "name": "Portable Speaker",
+        "description": "Bluetooth speaker for music.",
+        "price": 7.99
+      },
+      {
+        "name": "Pet Bed",
+        "description": "Comfortable bed for your pet.",
+        "price": 5.99
+      }
+    ]
+  }
+}
