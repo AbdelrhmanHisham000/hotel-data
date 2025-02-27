@@ -4,7 +4,8 @@
   "description": "Fake API with JSON Server",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --host 0.0.0.0 --port $PORT --watch src/data/restaurant/data.json"
+   "start": "PORT=3000 json-server --host 0.0.0.0 --port $PORT --watch src/data/restaurant/data.json"
+
   },
   "dependencies": {
     "json-server": "^0.17.0"

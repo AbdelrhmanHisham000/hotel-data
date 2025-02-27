@@ -1,7 +1,7 @@
 {
   "restaurants": [
     {
-      "img": "public/restaurant/Clove Restaurant.jpg",
+      "img": "/restaurant/Clove Restaurant.jpg",
       "name": "Clove Restaurant",
       "type": "Indian Cuisine",
       "tablesNumber": 0,
@@ -17,7 +17,7 @@
       "id": "35f2"
     },
     {
-      "img": "public/restaurant/Elia Restaurant.jpg",
+      "img": "/restaurant/Elia Restaurant.jpg",
       "name": "Elia Restaurant",
       "type": "Mediterranean Cuisine",
       "tablesNumber": 0,
@@ -33,7 +33,7 @@
       "id": "0822"
     },
     {
-      "img": "public/restaurant/Manzoku Restaurant.jpg",
+      "img": "/restaurant/Manzoku Restaurant.jpg",
       "name": "Manzoku Restaurant",
       "type": "Asian Cuisine",
       "tablesNumber": 0,
@@ -49,7 +49,7 @@
       "id": "4695"
     },
     {
-      "img": "public/restaurant/Posh Club Lounge.jpg",
+      "img": "/restaurant/Posh Club Lounge.jpg",
       "name": "Posh Club Lounge",
       "type": "Royal Lounge",
       "tablesNumber": 1,
@@ -65,7 +65,7 @@
       "id": "fd36"
     },
     {
-      "img": "public/restaurant/Posh Club Restaurant.jpg",
+      "img": "/restaurant/Posh Club Restaurant.jpg",
       "name": "Posh Club Restaurant",
       "type": "Fine Dining",
       "tablesNumber": 1,
@@ -94,8 +94,8 @@
       "description": "Enjoy your stay at our Deluxe Room providing all means of comfort and your choice between Garden, Pool or Partial Sea View",
       "overview": "Seating Area, Bathroom with separate Shower, Terrace or Balcony",
       "images": [
-        "public/rooms/Deluxe Room/Deluxe Room.jpg",
-        "public/rooms/Deluxe Room/Deluxe Room 2.jpg"
+        "/rooms/Deluxe Room/Deluxe Room.jpg",
+        "/rooms/Deluxe Room/Deluxe Room 2.jpg"
       ],
       "id": "86a9"
     },
@@ -110,8 +110,8 @@
       "description": "Wake up and unwind in your private jacuzzi as you gaze up on the direct view of the Red Sea at our Deluxe Jacuzzi Room.",
       "overview": "Seating Area, Bathroom with separate Shower, Balcony, Indoor Jacuzzi",
       "images": [
-        "public/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room 1.jpg",
-        "public/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room.jpg"
+        "/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room 1.jpg",
+        "/rooms/Deluxe Jacuzzi Room/Deluxe Jacuzzi Room.jpg"
       ],
       "id": "c51b"
     },
@@ -126,10 +126,10 @@
       "description": "A comfy bed, seating area and a terrace with an access to a shared swim up pool to dip your body into the minute you wake up in your Deluxe Swim Up Room.",
       "overview": "Seating Area, Bathroom with separate Shower, Terrace with access to shared Swim-Up Pool, Indoor Jacuzzi",
       "images": [
-        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 3.jpg",
-        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 4.jpg",
-        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room.jpg",
-        "public/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 2.jpg"
+        "/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 3.jpg",
+        "/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 4.jpg",
+        "/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room.jpg",
+        "/rooms/Deluxe Swim-Up Room/Deluxe Swim-Up Room 2.jpg"
       ],
       "id": "0f81"
     },
@@ -144,9 +144,9 @@
       "description": "Family quality time not to miss out on at our Family Suite, perfectly packed with all amenities suitable for all the family members.",
       "overview": "One Bedroom with King Size Bed,One Bedroom with Twin Beds, Bathroom with separate Shower, Terrace or Balcony",
       "images": [
-        "public/rooms/Family Suite/Family Suite.jpg",
-        "public/rooms/Family Suite/Family Suite 2.jpg",
-        "public/rooms/Family Suite/Family Suite 4.jpg"
+        "/rooms/Family Suite/Family Suite.jpg",
+        "/rooms/Family Suite/Family Suite 2.jpg",
+        "/rooms/Family Suite/Family Suite 4.jpg"
       ],
       "id": "673c",
       "availabilty": false
@@ -162,10 +162,10 @@
       "description": "An ideally sized suite to help you unwind in your beach-front crib while enjoying a cozy ambience and matchless amenities.",
       "overview": "Bedroom with King Size Bed or Twin Beds, Seating Area, Bathroom with separate Shower, Terrace with access to shared Swim-Up Pool, Posh Club Eligibility & Privileges",
       "images": [
-        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club.jpg",
-        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 2.jpg",
-        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 3.jpg",
-        "public/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 5.jpg"
+        "/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club.jpg",
+        "/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 2.jpg",
+        "/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 3.jpg",
+        "/rooms/Junior Swim-Up Suite- Posh Club/Junior Swim-Up Suite- Posh Club 5.jpg"
       ],
       "id": "b395"
     },
@@ -180,9 +180,9 @@
       "description": "Fall asleep in comfort and avail your eyesight with the view of the Red Sea the minute you wake up at our Junior Jacuzzi Suite.",
       "overview": "Seating Area, Bathroom with separate Shower, Balcony, Rooftop with Outdoor Jacuzzi, Posh Club Eligibility & Privileges",
       "images": [
-        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club.jpg",
-        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 2.jpg",
-        "public/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 3.jpg"
+        "/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club.jpg",
+        "/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 2.jpg",
+        "/rooms/Junior Jacuzzi Suite- Posh Club/Junior Jacuzzi Suite- Posh Club 3.jpg"
       ],
       "id": "5dfb"
     },
@@ -197,9 +197,9 @@
       "description": "Comfort, spaciousness and privacy, all in our Executive Pool Suite. A secluded crib to enjoy your time calmly with a private pool that can be opened or covered upon your preference.",
       "overview": "Bedroom with King Size Bed, Living Room, Bathroom with separate Shower, Terrace & Private Pool with Slider Ceiling to be opened or covered, Posh Club Eligibility & Privileges",
       "images": [
-        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club.jpg",
-        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 2.jpg",
-        "public/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 3.jpg"
+        "/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club.jpg",
+        "/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 2.jpg",
+        "/rooms/Executive Pool Suite- Posh Club/Executive Pool Suite- Posh Club 3.jpg"
       ],
       "id": "701c"
     },
@@ -214,12 +214,12 @@
       "description": "Relish true royalty at the highest accommodation at White Hills, the Royal Suite, offering you the luxury of an indoor Jacuzzi, a wide dining room and a private pool,all situated on a beach-front spot. The epitome of a dreamy hideaway",
       "overview": "Bedroom with King Size Bed, Dressing Room, Bathroom with separate Shower, Indoor Jacuzzi, Living Room, Dining Room with separate Toilet, Outdoor Terrace with Private Pool, Posh Club Eligibility & Privileges",
       "images": [
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 1.jpg",
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 2.jpg",
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 3.jpg",
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 4.jpg",
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 5.jpg",
-        "public/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 6.jpg"
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 1.jpg",
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 2.jpg",
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 3.jpg",
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 4.jpg",
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 5.jpg",
+        "/rooms/Royal Suite- Posh Club/Royal Suite- Posh Club 6.jpg"
       ],
       "id": "f6bc"
     },
@@ -234,8 +234,8 @@
       "description": "Special Needs Room",
       "overview": "Bedroom with King Size Bed, Seating Area, Bathroom with Accessible Shower & Handrails, Ground Floor, Non-slip Tiles, Terrace, Wide Doors",
       "images": [
-        "public/rooms/Special Needs Room/Special Needs Room 1.jpg",
-        "public/rooms/Special Needs Room/Special Needs Room 2.jpg"
+        "/rooms/Special Needs Room/Special Needs Room 1.jpg",
+        "/rooms/Special Needs Room/Special Needs Room 2.jpg"
       ],
       "id": "7cbc",
       "availability": false
@@ -251,8 +251,8 @@
       "description": "Special Needs Room",
       "overview": "Bedroom with King Size Bed, Seating Area, Bathroom with Accessible Shower & Handrails, Ground Floor, Non-slip Tiles, Terrace, Wide Doors",
       "images": [
-        "public/rooms/Special Needs Room/Special Needs Room 1.jpg",
-        "public/rooms/Special Needs Room/Special Needs Room 2.jpg"
+        "/rooms/Special Needs Room/Special Needs Room 1.jpg",
+        "/rooms/Special Needs Room/Special Needs Room 2.jpg"
       ],
       "id": "228d"
     }
@@ -260,7 +260,7 @@
   "wellness": [
     {
       "title": "Gym Facilities",
-      "img": "public/wellness/Gym.jpg",
+      "img": "/wellness/Gym.jpg",
       "description": "State-of-the-art gym with personal training services.",
       "opening_hours": "24/7",
       "age_restriction": "18+",
@@ -275,7 +275,7 @@
     },
     {
       "title": "Spa Facilities",
-      "img": "public/wellness/Spa.jpg",
+      "img": "/wellness/Spa.jpg",
       "description": "Services are with extra charge, with prior reservation.",
       "opening_hours": "09:00 AM – 08:00 PM",
       "age_restriction": "16+",
@@ -290,7 +290,7 @@
     },
     {
       "title": "Swimming Pool",
-      "img": "public/wellness/SwimmingPool.jpg",
+      "img": "/wellness/SwimmingPool.jpg",
       "description": "Take a swim in our luxurious pool with a beautiful view.",
       "opening_hours": "09:00 AM – 09:00 PM",
       "age_restriction": "14+",
